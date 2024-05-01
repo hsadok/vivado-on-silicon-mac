@@ -1,1 +1,8 @@
 .DS_Store
+installer
+.Xilinx
+Xilinx
+Xilinx_*.bin
+.cache
+.java
+vivado*
